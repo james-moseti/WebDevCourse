@@ -11,5 +11,3 @@ This is a landing page. It is from programming hero course. I built this website
   _and many more_
   <br>
   <br>
-
-[![](images/fullpageIMg.png)]
