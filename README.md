@@ -12,4 +12,4 @@ This is a landing page. It is from programming hero course. I built this website
   <br>
   <br>
 
-[![](/images/fullpageIMg.png)]
+[![](images/fullpageIMg.png)]
