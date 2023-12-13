@@ -1,4 +1,4 @@
-## eLearning [Live Link]
+## Web Dev Course
 
 This is a landing page. It is from programming hero course. I built this website with bootstrap 5. It was an assignment.
 <br>
@@ -11,7 +11,3 @@ This is a landing page. It is from programming hero course. I built this website
   _and many more_
   <br>
   <br>
-
-<!-- visit the website -->
-
-[![](/images/fullpageIMg.png)]
