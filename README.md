@@ -1,6 +1,6 @@
 ## Web Dev Course
 
-This is a landing page. It is from programming hero course. I built this website with bootstrap 5. It was an assignment.
+This is a landing page. It is from programming hero course. I built this website with HTML & CSS. It was an assignment.
 <br>
 
 ### What I used to build this website
